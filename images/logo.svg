@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M5 0h35c2.75957512 0 5 2.24042488 5 5v35c0 2.75957512-2.24042488 5-5 5H5c-2.75957512 0-5-2.24042488-5-5V5c0-2.75957512 2.24042488-5 5-5z"/>
+    <linearGradient id="linearGradient-2" x1="3.15" x2="47.25" y1=".9" y2="44.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(2,219,17)"/>
+      <stop offset="1" stop-color="rgb(12,0,83)"/>
+    </linearGradient>
+    <mask id="mask-3" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="45" height="45" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-1"/>
+    </mask>
+    <linearGradient id="linearGradient-5" x1="8.31" x2="41.97" y1="6" y2="39.33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="rgb(2,219,17)"/>
+      <stop offset="1" stop-color="rgb(12,0,83)"/>
+    </linearGradient>
+    <path id="path-8" fill-rule="evenodd" d="M9.08435884 13s9.29896952 2.96906987 15.49775689 8.90630338c6.19878737 5.9372335 0 13.85424969 0 13.85424969s-6.19919004 1.97917853-11.365109-5.44274095C8.05108775 22.89589264 9.08435883 13 9.08435883 13z"/>
+    <mask id="mask-9" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="45" height="45" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-8"/>
+    </mask>
+    <path id="path-17" fill-rule="evenodd" d="M24.30421985 12s5.59178525 1.8384953 9.319326 5.51492477c3.72754073 3.67642945 0 8.57877185 0 8.57877185s-3.7277829 1.22553884-6.83422489-3.3702318C23.68287896 18.12769418 24.30421986 12 24.30421986 12z"/>
+    <mask id="mask-18" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="45" height="45" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#path-17"/>
+    </mask>
+    <ellipse id="ellipse-24" cx="22.5" cy="13.5" rx="3.5" ry="3.5"/>
+    <mask id="mask-25" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="45" height="45" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-24"/>
+    </mask>
+    <ellipse id="ellipse-26" cx="32" cy="31" rx="2" ry="2"/>
+    <mask id="mask-27" x="0" y="0" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse">
+      <rect width="45" height="45" x="0" y="0" fill="black"/>
+      <use fill="white" xlink:href="#ellipse-26"/>
+    </mask>
+  </defs>
+  <g>
+    <g>
+      <use fill="rgb(200,200,200)" fill-opacity="0" xlink:href="#path-1"/>
+      <use fill-opacity="0" stroke="url(#linearGradient-2)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="6" mask="url(#mask-3)" xlink:href="#path-1"/>
+    </g>
+    <path fill="url(#linearGradient-5)" fill-rule="evenodd" d="M11 6h23c2.75957512 0 5 2.24042488 5 5v23c0 2.75957512-2.24042488 5-5 5H11c-2.75957512 0-5-2.24042488-5-5V11c0-2.75957512 2.24042488-5 5-5z"/>
+    <g>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0331838 14.4843839s5.50531983 3.62733944 9.81524602 9.89589264c4.3099262 6.26855319 4.13273517 10.8854819 4.13273517 10.8854819"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M14.16591896 30.81260675s3.87423358.77728703 6.90723824 2.12054842c3.03300466 1.3432614 2.90831084 2.33260327 2.90831084 2.33260327"/>
+      <g>
+        <use fill="rgb(200,200,200)" fill-opacity="0" xlink:href="#path-8"/>
+        <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-9)" xlink:href="#path-8"/>
+      </g>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M11.06636759 24.87507117s4.28200513.60455657 7.63424018 1.64931544c3.35223505 1.04475886 3.73078153 2.30904161 3.73078153 2.30904161"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M23.10888074 21.21802355s-.88522652 2.64707575-1.08839258 5.0137104c-.20316607 2.36663466-.04200192 2.2296152-.04200192 2.2296152"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M26.54690798 25.12015928s-1.52531481 3.71236246-2.22958406 6.91297357c-.70426925 3.2006111-.49601793 2.98522535-.49601793 2.98522535"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M17.16404147 17.4622126s-.24513821 1.58178903.05279891 3.11444724c.29793712 1.5326582 1.02066414 1.38751906 1.02066414 1.38751906"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M10.0331838 18.93753558s3.26223974.60455658 5.81613541 1.64931544c2.55389568 1.04475887 2.44872597 1.81424699 2.44872597 1.81424699"/>
+    </g>
+    <g transform="matrix(-1 0 0 1 60.24968273 0)">
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M24.87478043 12.91915413s3.31053523 2.2461063 5.90223979 6.12769418c2.59170456 3.88158788 2.4851536 6.7404636 2.4851536 6.7404636"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M27.79636906 23.02984953s2.15745794.4813085 3.8464578 1.31307733c1.68899987.83176883 1.61956119 1.44438506 1.61956119 1.44438506"/>
+      <g>
+        <use fill="rgb(200,200,200)" fill-opacity="0" xlink:href="#path-17"/>
+        <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-18)" xlink:href="#path-17"/>
+      </g>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M25.49606882 19.35323302s2.57491469.37435105 4.59072713 1.02128237c2.01581244.6469313 2.24344527 1.4297953 2.24344527 1.4297953"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M32.7164746 17.14081485s-.52305009 1.59734421-.62920675 3.03010393c-.10615666 1.43275971-.00820742 1.35098762-.00820742 1.35098762"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M34.53038485 20.00271584s-.80631654 2.06877914-1.1342328 3.8706091c-.32791625 1.80182997-.20912892 1.68537744-.20912892 1.68537744"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M29.13798443 14.78922027s-.13814332.95675123.05703033 1.88801267c.19517366.93126143.6381237.84900142.6381237.84900142"/>
+      <path fill="none" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" d="M24.87478043 15.67661651s1.96169522.37435105 3.49743916 1.02128236c1.53574395.64693132 1.47250185 1.1234106 1.47250185 1.1234106"/>
+    </g>
+    <g>
+      <use fill="rgb(200,200,200)" fill-opacity="0" xlink:href="#ellipse-24"/>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-25)" xlink:href="#ellipse-24"/>
+    </g>
+    <g>
+      <use fill="rgb(200,200,200)" fill-opacity="0" xlink:href="#ellipse-26"/>
+      <use fill-opacity="0" stroke="rgb(255,255,255)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" mask="url(#mask-27)" xlink:href="#ellipse-26"/>
+    </g>
+  </g>
+</svg>
